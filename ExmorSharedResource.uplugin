@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"Version": 0,
+	"VersionName": "0.0.1",
+	"SemVersion": "0.0.1",
+	"FriendlyName": "ExmorSharedResource",
+	"Description": "",
+	"Category": "Modding",
+	"CreatedBy": "Skymoeba",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"GameVersion": ">=365306",
+	"AcceptsAnyRemoteVersion": false
+}
